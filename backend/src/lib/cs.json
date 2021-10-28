@@ -1,0 +1,2611 @@
+[{
+	"id": "150",
+	"instructorId": "150",
+	"departmentId": 3005,
+	"name": "Computer Science Principles",
+	"title": "CS150",
+	"reviewRating": 4,
+	"surveyRating": 5,
+	"description": "Computer Science Principles"
+}, {
+	"id": "164",
+	"instructorId": "164",
+	"departmentId": 3005,
+	"name": "Introduction to Computer Science",
+	"title": "CS164",
+	"reviewRating": 5,
+	"surveyRating": 1,
+	"description": "Introduction to Computer Science"
+}, {
+	"id": "164",
+	"instructorId": "164",
+	"departmentId": 3005,
+	"name": "Introduction to Computer Science",
+	"title": "CS164",
+	"reviewRating": 2,
+	"surveyRating": 5,
+	"description": "Introduction to Computer Science"
+}, {
+	"id": "164",
+	"instructorId": "164",
+	"departmentId": 3005,
+	"name": "Introduction to Computer Science",
+	"title": "CS164",
+	"reviewRating": 4,
+	"surveyRating": 4,
+	"description": "Introduction to Computer Science"
+}, {
+	"id": "164",
+	"instructorId": "164",
+	"departmentId": 3005,
+	"name": "Introduction to Computer Science",
+	"title": "CS164",
+	"reviewRating": 1,
+	"surveyRating": 4,
+	"description": "Introduction to Computer Science"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 2,
+	"surveyRating": 5,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 4,
+	"surveyRating": 2,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 3,
+	"surveyRating": 3,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 3,
+	"surveyRating": 5,
+	"description": "Computer Programming I"
+}, {
+	"id": "172",
+	"instructorId": "172",
+	"departmentId": 3005,
+	"name": "Computer Programming II",
+	"title": "CS172",
+	"reviewRating": 3,
+	"surveyRating": 1,
+	"description": "Computer Programming II"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 1,
+	"surveyRating": 4,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 4,
+	"surveyRating": 1,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 3,
+	"surveyRating": 3,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 3,
+	"surveyRating": 3,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "270",
+	"instructorId": "270",
+	"departmentId": 3005,
+	"name": "Mathematical Foundations of Computer Science",
+	"title": "CS270",
+	"reviewRating": 2,
+	"surveyRating": 4,
+	"description": "Mathematical Foundations of Computer Science"
+}, {
+	"id": "270",
+	"instructorId": "270",
+	"departmentId": 3005,
+	"name": "Mathematical Foundations of Computer Science",
+	"title": "CS270",
+	"reviewRating": 1,
+	"surveyRating": 1,
+	"description": "Mathematical Foundations of Computer Science"
+}, {
+	"id": "270",
+	"instructorId": "270",
+	"departmentId": 3005,
+	"name": "Mathematical Foundations of Computer Science",
+	"title": "CS270",
+	"reviewRating": 2,
+	"surveyRating": 5,
+	"description": "Mathematical Foundations of Computer Science"
+}, {
+	"id": "277",
+	"instructorId": "277",
+	"departmentId": 3005,
+	"name": "Algorithms and Analysis",
+	"title": "CS277",
+	"reviewRating": 2,
+	"surveyRating": 4,
+	"description": "Algorithms and Analysis"
+}, {
+	"id": "281",
+	"instructorId": "281",
+	"departmentId": 3005,
+	"name": "Systems Architecture",
+	"title": "CS281",
+	"reviewRating": 3,
+	"surveyRating": 5,
+	"description": "Systems Architecture"
+}, {
+	"id": "281",
+	"instructorId": "281",
+	"departmentId": 3005,
+	"name": "Systems Architecture",
+	"title": "CS281",
+	"reviewRating": 5,
+	"surveyRating": 2,
+	"description": "Systems Architecture"
+}, {
+	"id": "281",
+	"instructorId": "281",
+	"departmentId": 3005,
+	"name": "Systems Architecture",
+	"title": "CS281",
+	"reviewRating": 5,
+	"surveyRating": 3,
+	"description": "Systems Architecture"
+}, {
+	"id": "341",
+	"instructorId": "341",
+	"departmentId": 3005,
+	"name": "Serious Game Development",
+	"title": "CS341",
+	"reviewRating": 3,
+	"surveyRating": 5,
+	"description": "Serious Game Development"
+}, {
+	"id": "375",
+	"instructorId": "375",
+	"departmentId": 3005,
+	"name": "Web and Mobile App Development",
+	"title": "CS375",
+	"reviewRating": 1,
+	"surveyRating": 5,
+	"description": "Web and Mobile App Development"
+}, {
+	"id": "380",
+	"instructorId": "380",
+	"departmentId": 3005,
+	"name": "Artificial Intelligence",
+	"title": "CS380",
+	"reviewRating": 1,
+	"surveyRating": 5,
+	"description": "Artificial Intelligence"
+}, {
+	"id": "430",
+	"instructorId": "430",
+	"departmentId": 3005,
+	"name": "Computer Graphics",
+	"title": "CS430",
+	"reviewRating": 2,
+	"surveyRating": 5,
+	"description": "Computer Graphics"
+}, {
+	"id": "472",
+	"instructorId": "472",
+	"departmentId": 3005,
+	"name": "Computer Networks: Theory, Applications and Programming",
+	"title": "CS472",
+	"reviewRating": 5,
+	"surveyRating": 3,
+	"description": "Computer Networks: Theory, Applications and Programming"
+}, {
+	"id": "501",
+	"instructorId": "501",
+	"departmentId": 3005,
+	"name": "Introduction to Programming",
+	"title": "CS501",
+	"reviewRating": 5,
+	"surveyRating": 2,
+	"description": "Introduction to Programming"
+}, {
+	"id": "503",
+	"instructorId": "503",
+	"departmentId": 3005,
+	"name": "Systems Basics",
+	"title": "CS503",
+	"reviewRating": 3,
+	"surveyRating": 4,
+	"description": "Systems Basics"
+}, {
+	"id": "510",
+	"instructorId": "510",
+	"departmentId": 3005,
+	"name": "Introduction to Artificial Intelligence",
+	"title": "CS510",
+	"reviewRating": 4,
+	"surveyRating": 4,
+	"description": "Introduction to Artificial Intelligence"
+}, {
+	"id": "520",
+	"instructorId": "520",
+	"departmentId": 3005,
+	"name": "Computer Science Foundations",
+	"title": "CS520",
+	"reviewRating": 2,
+	"surveyRating": 4,
+	"description": "Computer Science Foundations"
+}, {
+	"id": "521",
+	"instructorId": "521",
+	"departmentId": 3005,
+	"name": "Data Structures and Algorithms I",
+	"title": "CS521",
+	"reviewRating": 4,
+	"surveyRating": 1,
+	"description": "Data Structures and Algorithms I"
+}, {
+	"id": "536",
+	"instructorId": "536",
+	"departmentId": 3005,
+	"name": "Computer Graphics",
+	"title": "CS536",
+	"reviewRating": 1,
+	"surveyRating": 2,
+	"description": "Computer Graphics"
+}, {
+	"id": "540",
+	"instructorId": "540",
+	"departmentId": 3005,
+	"name": "High Performance Computing",
+	"title": "CS540",
+	"reviewRating": 3,
+	"surveyRating": 1,
+	"description": "High Performance Computing"
+}, {
+	"id": "567",
+	"instructorId": "567",
+	"departmentId": 3005,
+	"name": "Applied Symbolic Computation",
+	"title": "CS567",
+	"reviewRating": 1,
+	"surveyRating": 2,
+	"description": "Applied Symbolic Computation"
+}, {
+	"id": "570",
+	"instructorId": "570",
+	"departmentId": 3005,
+	"name": "Programming Foundations",
+	"title": "CS570",
+	"reviewRating": 4,
+	"surveyRating": 2,
+	"description": "Programming Foundations"
+}, {
+	"id": "570",
+	"instructorId": "570",
+	"departmentId": 3005,
+	"name": "Programming Foundations",
+	"title": "CS570",
+	"reviewRating": 1,
+	"surveyRating": 4,
+	"description": "Programming Foundations"
+}, {
+	"id": "571",
+	"instructorId": "571",
+	"departmentId": 3005,
+	"name": "Advanced Programming Techniques",
+	"title": "CS571",
+	"reviewRating": 5,
+	"surveyRating": 4,
+	"description": "Advanced Programming Techniques"
+}, {
+	"id": "611",
+	"instructorId": "611",
+	"departmentId": 3005,
+	"name": "Game Artificial Intelligence",
+	"title": "CS611",
+	"reviewRating": 5,
+	"surveyRating": 2,
+	"description": "Game Artificial Intelligence"
+}, {
+	"id": "613",
+	"instructorId": "613",
+	"departmentId": 3005,
+	"name": "Machine Learning",
+	"title": "CS613",
+	"reviewRating": 1,
+	"surveyRating": 1,
+	"description": "Machine Learning"
+}, {
+	"id": "695",
+	"instructorId": "695",
+	"departmentId": 3005,
+	"name": "Security Code Analysis",
+	"title": "CS695",
+	"reviewRating": 3,
+	"surveyRating": 3,
+	"description": "Security Code Analysis"
+}, {
+	"id": "I699",
+	"instructorId": "I699",
+	"departmentId": 3005,
+	"name": "Generative Adversarial Nets",
+	"title": "CSI699",
+	"reviewRating": 5,
+	"surveyRating": 1,
+	"description": "Generative Adversarial Nets"
+}, {
+	"id": "I699",
+	"instructorId": "I699",
+	"departmentId": 3005,
+	"name": "Loss Landscape of Neural Nets",
+	"title": "CSI699",
+	"reviewRating": 2,
+	"surveyRating": 3,
+	"description": "Loss Landscape of Neural Nets"
+}, {
+	"id": "I799",
+	"instructorId": "I799",
+	"departmentId": 3005,
+	"name": "Reinforcement Learning",
+	"title": "CSI799",
+	"reviewRating": 3,
+	"surveyRating": 5,
+	"description": "Reinforcement Learning"
+}, {
+	"id": "I799",
+	"instructorId": "I799",
+	"departmentId": 3005,
+	"name": "ML for Malware Analysis",
+	"title": "CSI799",
+	"reviewRating": 5,
+	"surveyRating": 1,
+	"description": "ML for Malware Analysis"
+}, {
+	"id": "I799",
+	"instructorId": "I799",
+	"departmentId": 3005,
+	"name": "Personal Cognitive Systems",
+	"title": "CSI799",
+	"reviewRating": 2,
+	"surveyRating": 4,
+	"description": "Personal Cognitive Systems"
+}, {
+	"id": "997",
+	"instructorId": "997",
+	"departmentId": 3005,
+	"name": "Research in Computer Science",
+	"title": "CS997",
+	"reviewRating": 4,
+	"surveyRating": 4,
+	"description": "Research in Computer Science"
+}, {
+	"id": "997",
+	"instructorId": "997",
+	"departmentId": 3005,
+	"name": "Research in Computer Science",
+	"title": "CS997",
+	"reviewRating": 1,
+	"surveyRating": 3,
+	"description": "Research in Computer Science"
+}, {
+	"id": "997",
+	"instructorId": "997",
+	"departmentId": 3005,
+	"name": "Research in Computer Science",
+	"title": "CS997",
+	"reviewRating": 2,
+	"surveyRating": 1,
+	"description": "Research in Computer Science"
+}, {
+	"id": "997",
+	"instructorId": "997",
+	"departmentId": 3005,
+	"name": "Research in Computer Science",
+	"title": "CS997",
+	"reviewRating": 4,
+	"surveyRating": 4,
+	"description": "Research in Computer Science"
+}, {
+	"id": "150",
+	"instructorId": "150",
+	"departmentId": 3005,
+	"name": "Computer Science Principles",
+	"title": "CS150",
+	"reviewRating": 4,
+	"surveyRating": 1,
+	"description": "Computer Science Principles"
+}, {
+	"id": "164",
+	"instructorId": "164",
+	"departmentId": 3005,
+	"name": "Introduction to Computer Science",
+	"title": "CS164",
+	"reviewRating": 4,
+	"surveyRating": 5,
+	"description": "Introduction to Computer Science"
+}, {
+	"id": "164",
+	"instructorId": "164",
+	"departmentId": 3005,
+	"name": "Introduction to Computer Science",
+	"title": "CS164",
+	"reviewRating": 1,
+	"surveyRating": 2,
+	"description": "Introduction to Computer Science"
+}, {
+	"id": "164",
+	"instructorId": "164",
+	"departmentId": 3005,
+	"name": "Introduction to Computer Science",
+	"title": "CS164",
+	"reviewRating": 5,
+	"surveyRating": 3,
+	"description": "Introduction to Computer Science"
+}, {
+	"id": "164",
+	"instructorId": "164",
+	"departmentId": 3005,
+	"name": "Introduction to Computer Science",
+	"title": "CS164",
+	"reviewRating": 4,
+	"surveyRating": 2,
+	"description": "Introduction to Computer Science"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 5,
+	"surveyRating": 4,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 3,
+	"surveyRating": 2,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 5,
+	"surveyRating": 1,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 4,
+	"surveyRating": 4,
+	"description": "Computer Programming I"
+}, {
+	"id": "172",
+	"instructorId": "172",
+	"departmentId": 3005,
+	"name": "Computer Programming II",
+	"title": "CS172",
+	"reviewRating": 4,
+	"surveyRating": 5,
+	"description": "Computer Programming II"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 1,
+	"surveyRating": 4,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 2,
+	"surveyRating": 3,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 3,
+	"surveyRating": 3,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 4,
+	"surveyRating": 1,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "270",
+	"instructorId": "270",
+	"departmentId": 3005,
+	"name": "Mathematical Foundations of Computer Science",
+	"title": "CS270",
+	"reviewRating": 4,
+	"surveyRating": 4,
+	"description": "Mathematical Foundations of Computer Science"
+}, {
+	"id": "270",
+	"instructorId": "270",
+	"departmentId": 3005,
+	"name": "Mathematical Foundations of Computer Science",
+	"title": "CS270",
+	"reviewRating": 3,
+	"surveyRating": 5,
+	"description": "Mathematical Foundations of Computer Science"
+}, {
+	"id": "270",
+	"instructorId": "270",
+	"departmentId": 3005,
+	"name": "Mathematical Foundations of Computer Science",
+	"title": "CS270",
+	"reviewRating": 1,
+	"surveyRating": 3,
+	"description": "Mathematical Foundations of Computer Science"
+}, {
+	"id": "277",
+	"instructorId": "277",
+	"departmentId": 3005,
+	"name": "Algorithms and Analysis",
+	"title": "CS277",
+	"reviewRating": 5,
+	"surveyRating": 3,
+	"description": "Algorithms and Analysis"
+}, {
+	"id": "281",
+	"instructorId": "281",
+	"departmentId": 3005,
+	"name": "Systems Architecture",
+	"title": "CS281",
+	"reviewRating": 5,
+	"surveyRating": 1,
+	"description": "Systems Architecture"
+}, {
+	"id": "281",
+	"instructorId": "281",
+	"departmentId": 3005,
+	"name": "Systems Architecture",
+	"title": "CS281",
+	"reviewRating": 3,
+	"surveyRating": 1,
+	"description": "Systems Architecture"
+}, {
+	"id": "281",
+	"instructorId": "281",
+	"departmentId": 3005,
+	"name": "Systems Architecture",
+	"title": "CS281",
+	"reviewRating": 4,
+	"surveyRating": 3,
+	"description": "Systems Architecture"
+}, {
+	"id": "361",
+	"instructorId": "361",
+	"departmentId": 3005,
+	"name": "Concurrent Programming",
+	"title": "CS361",
+	"reviewRating": 3,
+	"surveyRating": 3,
+	"description": "Concurrent Programming"
+}, {
+	"id": "377",
+	"instructorId": "377",
+	"departmentId": 3005,
+	"name": "Software Security",
+	"title": "CS377",
+	"reviewRating": 1,
+	"surveyRating": 1,
+	"description": "Software Security"
+}, {
+	"id": "380",
+	"instructorId": "380",
+	"departmentId": 3005,
+	"name": "Artificial Intelligence",
+	"title": "CS380",
+	"reviewRating": 5,
+	"surveyRating": 5,
+	"description": "Artificial Intelligence"
+}, {
+	"id": "457",
+	"instructorId": "457",
+	"departmentId": 3005,
+	"name": "Data Structures and Algorithms I",
+	"title": "CS457",
+	"reviewRating": 2,
+	"surveyRating": 4,
+	"description": "Data Structures and Algorithms I"
+}, {
+	"id": "T480",
+	"instructorId": "T480",
+	"departmentId": 3005,
+	"name": "Algorithms, Games and Learning",
+	"title": "CST480",
+	"reviewRating": 1,
+	"surveyRating": 5,
+	"description": "Algorithms, Games and Learning"
+}, {
+	"id": "501",
+	"instructorId": "501",
+	"departmentId": 3005,
+	"name": "Introduction to Programming",
+	"title": "CS501",
+	"reviewRating": 2,
+	"surveyRating": 1,
+	"description": "Introduction to Programming"
+}, {
+	"id": "503",
+	"instructorId": "503",
+	"departmentId": 3005,
+	"name": "Systems Basics",
+	"title": "CS503",
+	"reviewRating": 5,
+	"surveyRating": 3,
+	"description": "Systems Basics"
+}, {
+	"id": "510",
+	"instructorId": "510",
+	"departmentId": 3005,
+	"name": "Introduction to Artificial Intelligence",
+	"title": "CS510",
+	"reviewRating": 4,
+	"surveyRating": 4,
+	"description": "Introduction to Artificial Intelligence"
+}, {
+	"id": "521",
+	"instructorId": "521",
+	"departmentId": 3005,
+	"name": "Data Structures and Algorithms I",
+	"title": "CS521",
+	"reviewRating": 2,
+	"surveyRating": 5,
+	"description": "Data Structures and Algorithms I"
+}, {
+	"id": "536",
+	"instructorId": "536",
+	"departmentId": 3005,
+	"name": "Computer Graphics",
+	"title": "CS536",
+	"reviewRating": 5,
+	"surveyRating": 3,
+	"description": "Computer Graphics"
+}, {
+	"id": "540",
+	"instructorId": "540",
+	"departmentId": 3005,
+	"name": "High Performance Computing",
+	"title": "CS540",
+	"reviewRating": 3,
+	"surveyRating": 3,
+	"description": "High Performance Computing"
+}, {
+	"id": "567",
+	"instructorId": "567",
+	"departmentId": 3005,
+	"name": "Applied Symbolic Computation",
+	"title": "CS567",
+	"reviewRating": 5,
+	"surveyRating": 1,
+	"description": "Applied Symbolic Computation"
+}, {
+	"id": "570",
+	"instructorId": "570",
+	"departmentId": 3005,
+	"name": "Programming Foundations",
+	"title": "CS570",
+	"reviewRating": 4,
+	"surveyRating": 2,
+	"description": "Programming Foundations"
+}, {
+	"id": "570",
+	"instructorId": "570",
+	"departmentId": 3005,
+	"name": "Programming Foundations",
+	"title": "CS570",
+	"reviewRating": 2,
+	"surveyRating": 4,
+	"description": "Programming Foundations"
+}, {
+	"id": "571",
+	"instructorId": "571",
+	"departmentId": 3005,
+	"name": "Advanced Programming Techniques",
+	"title": "CS571",
+	"reviewRating": 5,
+	"surveyRating": 2,
+	"description": "Advanced Programming Techniques"
+}, {
+	"id": "I599",
+	"instructorId": "I599",
+	"departmentId": 3005,
+	"name": "Multi-Die Networks-On-Chip",
+	"title": "CSI599",
+	"reviewRating": 1,
+	"surveyRating": 3,
+	"description": "Multi-Die Networks-On-Chip"
+}, {
+	"id": "611",
+	"instructorId": "611",
+	"departmentId": 3005,
+	"name": "Game Artificial Intelligence",
+	"title": "CS611",
+	"reviewRating": 3,
+	"surveyRating": 1,
+	"description": "Game Artificial Intelligence"
+}, {
+	"id": "613",
+	"instructorId": "613",
+	"departmentId": 3005,
+	"name": "Machine Learning",
+	"title": "CS613",
+	"reviewRating": 1,
+	"surveyRating": 5,
+	"description": "Machine Learning"
+}, {
+	"id": "695",
+	"instructorId": "695",
+	"departmentId": 3005,
+	"name": "Penetration Testing",
+	"title": "CS695",
+	"reviewRating": 5,
+	"surveyRating": 5,
+	"description": "Penetration Testing"
+}, {
+	"id": "I699",
+	"instructorId": "I699",
+	"departmentId": 3005,
+	"name": "Neuromodulated Metalearning",
+	"title": "CSI699",
+	"reviewRating": 1,
+	"surveyRating": 2,
+	"description": "Neuromodulated Metalearning"
+}, {
+	"id": "T780",
+	"instructorId": "T780",
+	"departmentId": 3005,
+	"name": "Algorithms, Games and Learning",
+	"title": "CST780",
+	"reviewRating": 2,
+	"surveyRating": 2,
+	"description": "Algorithms, Games and Learning"
+}, {
+	"id": "I799",
+	"instructorId": "I799",
+	"departmentId": 3005,
+	"name": "IoT Security",
+	"title": "CSI799",
+	"reviewRating": 2,
+	"surveyRating": 2,
+	"description": "IoT Security"
+}, {
+	"id": "I799",
+	"instructorId": "I799",
+	"departmentId": 3005,
+	"name": "Equational Reasoning Tool",
+	"title": "CSI799",
+	"reviewRating": 4,
+	"surveyRating": 2,
+	"description": "Equational Reasoning Tool"
+}, {
+	"id": "997",
+	"instructorId": "997",
+	"departmentId": 3005,
+	"name": "Research in Computer Science",
+	"title": "CS997",
+	"reviewRating": 1,
+	"surveyRating": 2,
+	"description": "Research in Computer Science"
+}, {
+	"id": "997",
+	"instructorId": "997",
+	"departmentId": 3005,
+	"name": "Research in Computer Science",
+	"title": "CS997",
+	"reviewRating": 4,
+	"surveyRating": 1,
+	"description": "Research in Computer Science"
+}, {
+	"id": "997",
+	"instructorId": "997",
+	"departmentId": 3005,
+	"name": "Research in Computer Science",
+	"title": "CS997",
+	"reviewRating": 3,
+	"surveyRating": 1,
+	"description": "Research in Computer Science"
+}, {
+	"id": "997",
+	"instructorId": "997",
+	"departmentId": 3005,
+	"name": "Research in Computer Science",
+	"title": "CS997",
+	"reviewRating": 5,
+	"surveyRating": 1,
+	"description": "Research in Computer Science"
+}, {
+	"id": "150",
+	"instructorId": "150",
+	"departmentId": 3005,
+	"name": "Computer Science Principles",
+	"title": "CS150",
+	"reviewRating": 1,
+	"surveyRating": 3,
+	"description": "Computer Science Principles"
+}, {
+	"id": "164",
+	"instructorId": "164",
+	"departmentId": 3005,
+	"name": "Introduction to Computer Science",
+	"title": "CS164",
+	"reviewRating": 1,
+	"surveyRating": 5,
+	"description": "Introduction to Computer Science"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 4,
+	"surveyRating": 5,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 1,
+	"surveyRating": 1,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 3,
+	"surveyRating": 5,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 4,
+	"surveyRating": 1,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 4,
+	"surveyRating": 5,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 3,
+	"surveyRating": 3,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 2,
+	"surveyRating": 3,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 2,
+	"surveyRating": 1,
+	"description": "Computer Programming I"
+}, {
+	"id": "172",
+	"instructorId": "172",
+	"departmentId": 3005,
+	"name": "Computer Programming II",
+	"title": "CS172",
+	"reviewRating": 1,
+	"surveyRating": 2,
+	"description": "Computer Programming II"
+}, {
+	"id": "172",
+	"instructorId": "172",
+	"departmentId": 3005,
+	"name": "Computer Programming II",
+	"title": "CS172",
+	"reviewRating": 2,
+	"surveyRating": 1,
+	"description": "Computer Programming II"
+}, {
+	"id": "260",
+	"instructorId": "260",
+	"departmentId": 3005,
+	"name": "Data Structures",
+	"title": "CS260",
+	"reviewRating": 3,
+	"surveyRating": 2,
+	"description": "Data Structures"
+}, {
+	"id": "260",
+	"instructorId": "260",
+	"departmentId": 3005,
+	"name": "Data Structures",
+	"title": "CS260",
+	"reviewRating": 4,
+	"surveyRating": 2,
+	"description": "Data Structures"
+}, {
+	"id": "260",
+	"instructorId": "260",
+	"departmentId": 3005,
+	"name": "Data Structures",
+	"title": "CS260",
+	"reviewRating": 5,
+	"surveyRating": 4,
+	"description": "Data Structures"
+}, {
+	"id": "260",
+	"instructorId": "260",
+	"departmentId": 3005,
+	"name": "Data Structures",
+	"title": "CS260",
+	"reviewRating": 1,
+	"surveyRating": 2,
+	"description": "Data Structures"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 1,
+	"surveyRating": 3,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 5,
+	"surveyRating": 3,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "283",
+	"instructorId": "283",
+	"departmentId": 3005,
+	"name": "Systems Programming",
+	"title": "CS283",
+	"reviewRating": 2,
+	"surveyRating": 5,
+	"description": "Systems Programming"
+}, {
+	"id": "283",
+	"instructorId": "283",
+	"departmentId": 3005,
+	"name": "Systems Programming",
+	"title": "CS283",
+	"reviewRating": 3,
+	"surveyRating": 3,
+	"description": "Systems Programming"
+}, {
+	"id": "338",
+	"instructorId": "338",
+	"departmentId": 3005,
+	"name": "Graphical User Interfaces",
+	"title": "CS338",
+	"reviewRating": 1,
+	"surveyRating": 1,
+	"description": "Graphical User Interfaces"
+}, {
+	"id": "342",
+	"instructorId": "342",
+	"departmentId": 3005,
+	"name": "Experimental Game Development",
+	"title": "CS342",
+	"reviewRating": 1,
+	"surveyRating": 1,
+	"description": "Experimental Game Development"
+}, {
+	"id": "360",
+	"instructorId": "360",
+	"departmentId": 3005,
+	"name": "Programming Language Concepts",
+	"title": "CS360",
+	"reviewRating": 4,
+	"surveyRating": 5,
+	"description": "Programming Language Concepts"
+}, {
+	"id": "370",
+	"instructorId": "370",
+	"departmentId": 3005,
+	"name": "Operating Systems",
+	"title": "CS370",
+	"reviewRating": 3,
+	"surveyRating": 4,
+	"description": "Operating Systems"
+}, {
+	"id": "383",
+	"instructorId": "383",
+	"departmentId": 3005,
+	"name": "Machine Learning",
+	"title": "CS383",
+	"reviewRating": 5,
+	"surveyRating": 4,
+	"description": "Machine Learning"
+}, {
+	"id": "I399",
+	"instructorId": "I399",
+	"departmentId": 3005,
+	"name": "Applications of SAT Solvers",
+	"title": "CSI399",
+	"reviewRating": 1,
+	"surveyRating": 5,
+	"description": "Applications of SAT Solvers"
+}, {
+	"id": "435",
+	"instructorId": "435",
+	"departmentId": 3005,
+	"name": "Computational Photography",
+	"title": "CS435",
+	"reviewRating": 2,
+	"surveyRating": 5,
+	"description": "Computational Photography"
+}, {
+	"id": "472",
+	"instructorId": "472",
+	"departmentId": 3005,
+	"name": "Computer Networks: Theory, Applications and Programming",
+	"title": "CS472",
+	"reviewRating": 2,
+	"surveyRating": 5,
+	"description": "Computer Networks: Theory, Applications and Programming"
+}, {
+	"id": "I499",
+	"instructorId": "I499",
+	"departmentId": 3005,
+	"name": "Hypervisor Internals",
+	"title": "CSI499",
+	"reviewRating": 5,
+	"surveyRating": 2,
+	"description": "Hypervisor Internals"
+}, {
+	"id": "500",
+	"instructorId": "500",
+	"departmentId": 3005,
+	"name": "Fundamentals of Databases",
+	"title": "CS500",
+	"reviewRating": 5,
+	"surveyRating": 4,
+	"description": "Fundamentals of Databases"
+}, {
+	"id": "502",
+	"instructorId": "502",
+	"departmentId": 3005,
+	"name": "Data Structures and Algorithms",
+	"title": "CS502",
+	"reviewRating": 2,
+	"surveyRating": 4,
+	"description": "Data Structures and Algorithms"
+}, {
+	"id": "504",
+	"instructorId": "504",
+	"departmentId": 3005,
+	"name": "Introduction to Software Design",
+	"title": "CS504",
+	"reviewRating": 5,
+	"surveyRating": 4,
+	"description": "Introduction to Software Design"
+}, {
+	"id": "520",
+	"instructorId": "520",
+	"departmentId": 3005,
+	"name": "Computer Science Foundations",
+	"title": "CS520",
+	"reviewRating": 1,
+	"surveyRating": 5,
+	"description": "Computer Science Foundations"
+}, {
+	"id": "525",
+	"instructorId": "525",
+	"departmentId": 3005,
+	"name": "Theory of Computation",
+	"title": "CS525",
+	"reviewRating": 1,
+	"surveyRating": 4,
+	"description": "Theory of Computation"
+}, {
+	"id": "530",
+	"instructorId": "530",
+	"departmentId": 3005,
+	"name": "Developing User Interfaces",
+	"title": "CS530",
+	"reviewRating": 2,
+	"surveyRating": 2,
+	"description": "Developing User Interfaces"
+}, {
+	"id": "543",
+	"instructorId": "543",
+	"departmentId": 3005,
+	"name": "Operating Systems",
+	"title": "CS543",
+	"reviewRating": 3,
+	"surveyRating": 1,
+	"description": "Operating Systems"
+}, {
+	"id": "570",
+	"instructorId": "570",
+	"departmentId": 3005,
+	"name": "Programming Foundations",
+	"title": "CS570",
+	"reviewRating": 5,
+	"surveyRating": 2,
+	"description": "Programming Foundations"
+}, {
+	"id": "590",
+	"instructorId": "590",
+	"departmentId": 3005,
+	"name": "Privacy",
+	"title": "CS590",
+	"reviewRating": 2,
+	"surveyRating": 1,
+	"description": "Privacy"
+}, {
+	"id": "615",
+	"instructorId": "615",
+	"departmentId": 3005,
+	"name": "Deep Learning",
+	"title": "CS615",
+	"reviewRating": 5,
+	"surveyRating": 3,
+	"description": "Deep Learning"
+}, {
+	"id": "615",
+	"instructorId": "615",
+	"departmentId": 3005,
+	"name": "Deep Learning",
+	"title": "CS615",
+	"reviewRating": 1,
+	"surveyRating": 5,
+	"description": "Deep Learning"
+}, {
+	"id": "650",
+	"instructorId": "650",
+	"departmentId": 3005,
+	"name": "Program Generation and Optimization",
+	"title": "CS650",
+	"reviewRating": 1,
+	"surveyRating": 1,
+	"description": "Program Generation and Optimization"
+}, {
+	"id": "I699",
+	"instructorId": "I699",
+	"departmentId": 3005,
+	"name": "Neuromodulated Metalearning",
+	"title": "CSI699",
+	"reviewRating": 1,
+	"surveyRating": 2,
+	"description": "Neuromodulated Metalearning"
+}, {
+	"id": "T780",
+	"instructorId": "T780",
+	"departmentId": 3005,
+	"name": "Algorithms, Games and Learning",
+	"title": "CST780",
+	"reviewRating": 4,
+	"surveyRating": 1,
+	"description": "Algorithms, Games and Learning"
+}, {
+	"id": "I799",
+	"instructorId": "I799",
+	"departmentId": 3005,
+	"name": "Neural Computation",
+	"title": "CSI799",
+	"reviewRating": 4,
+	"surveyRating": 2,
+	"description": "Neural Computation"
+}, {
+	"id": "997",
+	"instructorId": "997",
+	"departmentId": 3005,
+	"name": "Dissertation Research Comp Sci",
+	"title": "CS997",
+	"reviewRating": 4,
+	"surveyRating": 4,
+	"description": "Dissertation Research Comp Sci"
+}, {
+	"id": "997",
+	"instructorId": "997",
+	"departmentId": 3005,
+	"name": "Dissertation Research Comp Sci",
+	"title": "CS997",
+	"reviewRating": 1,
+	"surveyRating": 4,
+	"description": "Dissertation Research Comp Sci"
+}, {
+	"id": "997",
+	"instructorId": "997",
+	"departmentId": 3005,
+	"name": "Dissertation Research Comp Sci",
+	"title": "CS997",
+	"reviewRating": 1,
+	"surveyRating": 3,
+	"description": "Dissertation Research Comp Sci"
+}, {
+	"id": "997",
+	"instructorId": "997",
+	"departmentId": 3005,
+	"name": "Dissertation Research Comp Sci",
+	"title": "CS997",
+	"reviewRating": 1,
+	"surveyRating": 2,
+	"description": "Dissertation Research Comp Sci"
+}, {
+	"id": "150",
+	"instructorId": "150",
+	"departmentId": 3005,
+	"name": "Computer Science Principles",
+	"title": "CS150",
+	"reviewRating": 1,
+	"surveyRating": 3,
+	"description": "Computer Science Principles"
+}, {
+	"id": "164",
+	"instructorId": "164",
+	"departmentId": 3005,
+	"name": "Introduction to Computer Science",
+	"title": "CS164",
+	"reviewRating": 5,
+	"surveyRating": 4,
+	"description": "Introduction to Computer Science"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 3,
+	"surveyRating": 1,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 4,
+	"surveyRating": 1,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 1,
+	"surveyRating": 3,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 4,
+	"surveyRating": 2,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 5,
+	"surveyRating": 5,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 1,
+	"surveyRating": 1,
+	"description": "Computer Programming I"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 4,
+	"surveyRating": 5,
+	"description": "Computer Programming I"
+}, {
+	"id": "172",
+	"instructorId": "172",
+	"departmentId": 3005,
+	"name": "Computer Programming II",
+	"title": "CS172",
+	"reviewRating": 1,
+	"surveyRating": 1,
+	"description": "Computer Programming II"
+}, {
+	"id": "172",
+	"instructorId": "172",
+	"departmentId": 3005,
+	"name": "Computer Programming II",
+	"title": "CS172",
+	"reviewRating": 1,
+	"surveyRating": 4,
+	"description": "Computer Programming II"
+}, {
+	"id": "172",
+	"instructorId": "172",
+	"departmentId": 3005,
+	"name": "Computer Programming II",
+	"title": "CS172",
+	"reviewRating": 2,
+	"surveyRating": 5,
+	"description": "Computer Programming II"
+}, {
+	"id": "260",
+	"instructorId": "260",
+	"departmentId": 3005,
+	"name": "Data Structures",
+	"title": "CS260",
+	"reviewRating": 4,
+	"surveyRating": 2,
+	"description": "Data Structures"
+}, {
+	"id": "260",
+	"instructorId": "260",
+	"departmentId": 3005,
+	"name": "Data Structures",
+	"title": "CS260",
+	"reviewRating": 2,
+	"surveyRating": 4,
+	"description": "Data Structures"
+}, {
+	"id": "260",
+	"instructorId": "260",
+	"departmentId": 3005,
+	"name": "Data Structures",
+	"title": "CS260",
+	"reviewRating": 5,
+	"surveyRating": 2,
+	"description": "Data Structures"
+}, {
+	"id": "260",
+	"instructorId": "260",
+	"departmentId": 3005,
+	"name": "Data Structures",
+	"title": "CS260",
+	"reviewRating": 2,
+	"surveyRating": 4,
+	"description": "Data Structures"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 5,
+	"surveyRating": 4,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "270",
+	"instructorId": "270",
+	"departmentId": 3005,
+	"name": "Mathematical Foundations of Computer Science",
+	"title": "CS270",
+	"reviewRating": 5,
+	"surveyRating": 3,
+	"description": "Mathematical Foundations of Computer Science"
+}, {
+	"id": "283",
+	"instructorId": "283",
+	"departmentId": 3005,
+	"name": "Systems Programming",
+	"title": "CS283",
+	"reviewRating": 3,
+	"surveyRating": 1,
+	"description": "Systems Programming"
+}, {
+	"id": "303",
+	"instructorId": "303",
+	"departmentId": 3005,
+	"name": "Algorithmic Number Theory and Cryptography",
+	"title": "CS303",
+	"reviewRating": 1,
+	"surveyRating": 4,
+	"description": "Algorithmic Number Theory and Cryptography"
+}, {
+	"id": "338",
+	"instructorId": "338",
+	"departmentId": 3005,
+	"name": "Graphical User Interfaces",
+	"title": "CS338",
+	"reviewRating": 4,
+	"surveyRating": 3,
+	"description": "Graphical User Interfaces"
+}, {
+	"id": "345",
+	"instructorId": "345",
+	"departmentId": 3005,
+	"name": "Computer Game Design and Development",
+	"title": "CS345",
+	"reviewRating": 2,
+	"surveyRating": 4,
+	"description": "Computer Game Design and Development"
+}, {
+	"id": "360",
+	"instructorId": "360",
+	"departmentId": 3005,
+	"name": "Programming Language Concepts",
+	"title": "CS360",
+	"reviewRating": 5,
+	"surveyRating": 2,
+	"description": "Programming Language Concepts"
+}, {
+	"id": "375",
+	"instructorId": "375",
+	"departmentId": 3005,
+	"name": "Web and Mobile App Development",
+	"title": "CS375",
+	"reviewRating": 3,
+	"surveyRating": 3,
+	"description": "Web and Mobile App Development"
+}, {
+	"id": "387",
+	"instructorId": "387",
+	"departmentId": 3005,
+	"name": "Game AI Development",
+	"title": "CS387",
+	"reviewRating": 4,
+	"surveyRating": 2,
+	"description": "Game AI Development"
+}, {
+	"id": "432",
+	"instructorId": "432",
+	"departmentId": 3005,
+	"name": "Interactive Computer Graphics",
+	"title": "CS432",
+	"reviewRating": 1,
+	"surveyRating": 5,
+	"description": "Interactive Computer Graphics"
+}, {
+	"id": "458",
+	"instructorId": "458",
+	"departmentId": 3005,
+	"name": "Data Structures and Algorithms II",
+	"title": "CS458",
+	"reviewRating": 1,
+	"surveyRating": 4,
+	"description": "Data Structures and Algorithms II"
+}, {
+	"id": "T480",
+	"instructorId": "T480",
+	"departmentId": 3005,
+	"name": "Algorithms, Games and Learning",
+	"title": "CST480",
+	"reviewRating": 3,
+	"surveyRating": 1,
+	"description": "Algorithms, Games and Learning"
+}, {
+	"id": "500",
+	"instructorId": "500",
+	"departmentId": 3005,
+	"name": "Fundamentals of Databases",
+	"title": "CS500",
+	"reviewRating": 4,
+	"surveyRating": 5,
+	"description": "Fundamentals of Databases"
+}, {
+	"id": "502",
+	"instructorId": "502",
+	"departmentId": 3005,
+	"name": "Data Structures and Algorithms",
+	"title": "CS502",
+	"reviewRating": 5,
+	"surveyRating": 2,
+	"description": "Data Structures and Algorithms"
+}, {
+	"id": "504",
+	"instructorId": "504",
+	"departmentId": 3005,
+	"name": "Introduction to Software Design",
+	"title": "CS504",
+	"reviewRating": 1,
+	"surveyRating": 1,
+	"description": "Introduction to Software Design"
+}, {
+	"id": "520",
+	"instructorId": "520",
+	"departmentId": 3005,
+	"name": "Computer Science Foundations",
+	"title": "CS520",
+	"reviewRating": 2,
+	"surveyRating": 5,
+	"description": "Computer Science Foundations"
+}, {
+	"id": "525",
+	"instructorId": "525",
+	"departmentId": 3005,
+	"name": "Theory of Computation",
+	"title": "CS525",
+	"reviewRating": 1,
+	"surveyRating": 5,
+	"description": "Theory of Computation"
+}, {
+	"id": "530",
+	"instructorId": "530",
+	"departmentId": 3005,
+	"name": "Developing User Interfaces",
+	"title": "CS530",
+	"reviewRating": 1,
+	"surveyRating": 2,
+	"description": "Developing User Interfaces"
+}, {
+	"id": "543",
+	"instructorId": "543",
+	"departmentId": 3005,
+	"name": "Operating Systems",
+	"title": "CS543",
+	"reviewRating": 1,
+	"surveyRating": 3,
+	"description": "Operating Systems"
+}, {
+	"id": "570",
+	"instructorId": "570",
+	"departmentId": 3005,
+	"name": "Programming Foundations",
+	"title": "CS570",
+	"reviewRating": 3,
+	"surveyRating": 4,
+	"description": "Programming Foundations"
+}, {
+	"id": "590",
+	"instructorId": "590",
+	"departmentId": 3005,
+	"name": "Privacy",
+	"title": "CS590",
+	"reviewRating": 1,
+	"surveyRating": 5,
+	"description": "Privacy"
+}, {
+	"id": "I599",
+	"instructorId": "I599",
+	"departmentId": 3005,
+	"name": "Real-Time Graphics",
+	"title": "CSI599",
+	"reviewRating": 5,
+	"surveyRating": 2,
+	"description": "Real-Time Graphics"
+}, {
+	"id": "615",
+	"instructorId": "615",
+	"departmentId": 3005,
+	"name": "Deep Learning",
+	"title": "CS615",
+	"reviewRating": 3,
+	"surveyRating": 2,
+	"description": "Deep Learning"
+}, {
+	"id": "650",
+	"instructorId": "650",
+	"departmentId": 3005,
+	"name": "Program Generation and Optimization",
+	"title": "CS650",
+	"reviewRating": 3,
+	"surveyRating": 3,
+	"description": "Program Generation and Optimization"
+}, {
+	"id": "I699",
+	"instructorId": "I699",
+	"departmentId": 3005,
+	"name": "Sparse Generative Networks",
+	"title": "CSI699",
+	"reviewRating": 5,
+	"surveyRating": 1,
+	"description": "Sparse Generative Networks"
+}, {
+	"id": "I699",
+	"instructorId": "I699",
+	"departmentId": 3005,
+	"name": "Multi-Die Networks-on-Chip",
+	"title": "CSI699",
+	"reviewRating": 4,
+	"surveyRating": 3,
+	"description": "Multi-Die Networks-on-Chip"
+}, {
+	"id": "I799",
+	"instructorId": "I799",
+	"departmentId": 3005,
+	"name": "Educational Reasoning Tool",
+	"title": "CSI799",
+	"reviewRating": 1,
+	"surveyRating": 2,
+	"description": "Educational Reasoning Tool"
+}, {
+	"id": "997",
+	"instructorId": "997",
+	"departmentId": 3005,
+	"name": "Dissertation Research Comp Sci",
+	"title": "CS997",
+	"reviewRating": 5,
+	"surveyRating": 1,
+	"description": "Dissertation Research Comp Sci"
+}, {
+	"id": "997",
+	"instructorId": "997",
+	"departmentId": 3005,
+	"name": "Dissertation Research Comp Sci",
+	"title": "CS997",
+	"reviewRating": 1,
+	"surveyRating": 2,
+	"description": "Dissertation Research Comp Sci"
+}, {
+	"id": "997",
+	"instructorId": "997",
+	"departmentId": 3005,
+	"name": "Dissertation Research Comp Sci",
+	"title": "CS997",
+	"reviewRating": 3,
+	"surveyRating": 4,
+	"description": "Dissertation Research Comp Sci"
+}, {
+	"id": "997",
+	"instructorId": "997",
+	"departmentId": 3005,
+	"name": "Dissertation Research Comp Sci",
+	"title": "CS997",
+	"reviewRating": 5,
+	"surveyRating": 5,
+	"description": "Dissertation Research Comp Sci"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 2,
+	"surveyRating": 5,
+	"description": "Computer Programming I"
+}, {
+	"id": "172",
+	"instructorId": "172",
+	"departmentId": 3005,
+	"name": "Computer Programming II",
+	"title": "CS172",
+	"reviewRating": 5,
+	"surveyRating": 2,
+	"description": "Computer Programming II"
+}, {
+	"id": "172",
+	"instructorId": "172",
+	"departmentId": 3005,
+	"name": "Computer Programming II",
+	"title": "CS172",
+	"reviewRating": 4,
+	"surveyRating": 1,
+	"description": "Computer Programming II"
+}, {
+	"id": "260",
+	"instructorId": "260",
+	"departmentId": 3005,
+	"name": "Data Structures",
+	"title": "CS260",
+	"reviewRating": 1,
+	"surveyRating": 1,
+	"description": "Data Structures"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 4,
+	"surveyRating": 4,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 4,
+	"surveyRating": 3,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 2,
+	"surveyRating": 1,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 4,
+	"surveyRating": 5,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "270",
+	"instructorId": "270",
+	"departmentId": 3005,
+	"name": "Mathematical Foundations of Computer Science",
+	"title": "CS270",
+	"reviewRating": 5,
+	"surveyRating": 3,
+	"description": "Mathematical Foundations of Computer Science"
+}, {
+	"id": "270",
+	"instructorId": "270",
+	"departmentId": 3005,
+	"name": "Mathematical Foundations of Computer Science",
+	"title": "CS270",
+	"reviewRating": 3,
+	"surveyRating": 2,
+	"description": "Mathematical Foundations of Computer Science"
+}, {
+	"id": "277",
+	"instructorId": "277",
+	"departmentId": 3005,
+	"name": "Algorithms and Analysis",
+	"title": "CS277",
+	"reviewRating": 2,
+	"surveyRating": 5,
+	"description": "Algorithms and Analysis"
+}, {
+	"id": "281",
+	"instructorId": "281",
+	"departmentId": 3005,
+	"name": "Systems Architecture",
+	"title": "CS281",
+	"reviewRating": 1,
+	"surveyRating": 3,
+	"description": "Systems Architecture"
+}, {
+	"id": "281",
+	"instructorId": "281",
+	"departmentId": 3005,
+	"name": "Systems Architecture",
+	"title": "CS281",
+	"reviewRating": 4,
+	"surveyRating": 5,
+	"description": "Systems Architecture"
+}, {
+	"id": "281",
+	"instructorId": "281",
+	"departmentId": 3005,
+	"name": "Systems Architecture",
+	"title": "CS281",
+	"reviewRating": 2,
+	"surveyRating": 1,
+	"description": "Systems Architecture"
+}, {
+	"id": "345",
+	"instructorId": "345",
+	"departmentId": 3005,
+	"name": "Computer Game Design and Development",
+	"title": "CS345",
+	"reviewRating": 4,
+	"surveyRating": 2,
+	"description": "Computer Game Design and Development"
+}, {
+	"id": "375",
+	"instructorId": "375",
+	"departmentId": 3005,
+	"name": "Web and Mobile App Development",
+	"title": "CS375",
+	"reviewRating": 3,
+	"surveyRating": 4,
+	"description": "Web and Mobile App Development"
+}, {
+	"id": "383",
+	"instructorId": "383",
+	"departmentId": 3005,
+	"name": "Machine Learning",
+	"title": "CS383",
+	"reviewRating": 3,
+	"surveyRating": 1,
+	"description": "Machine Learning"
+}, {
+	"id": "461",
+	"instructorId": "461",
+	"departmentId": 3005,
+	"name": "Database Systems",
+	"title": "CS461",
+	"reviewRating": 1,
+	"surveyRating": 1,
+	"description": "Database Systems"
+}, {
+	"id": "475",
+	"instructorId": "475",
+	"departmentId": 3005,
+	"name": "Computer and Network Security",
+	"title": "CS475",
+	"reviewRating": 3,
+	"surveyRating": 2,
+	"description": "Computer and Network Security"
+}, {
+	"id": "501",
+	"instructorId": "501",
+	"departmentId": 3005,
+	"name": "Introduction to Programming",
+	"title": "CS501",
+	"reviewRating": 4,
+	"surveyRating": 2,
+	"description": "Introduction to Programming"
+}, {
+	"id": "503",
+	"instructorId": "503",
+	"departmentId": 3005,
+	"name": "Systems Basics",
+	"title": "CS503",
+	"reviewRating": 4,
+	"surveyRating": 4,
+	"description": "Systems Basics"
+}, {
+	"id": "510",
+	"instructorId": "510",
+	"departmentId": 3005,
+	"name": "Introduction to Artificial Intelligence",
+	"title": "CS510",
+	"reviewRating": 4,
+	"surveyRating": 2,
+	"description": "Introduction to Artificial Intelligence"
+}, {
+	"id": "544",
+	"instructorId": "544",
+	"departmentId": 3005,
+	"name": "Computer Networks",
+	"title": "CS544",
+	"reviewRating": 5,
+	"surveyRating": 1,
+	"description": "Computer Networks"
+}, {
+	"id": "550",
+	"instructorId": "550",
+	"departmentId": 3005,
+	"name": "Programming Languages",
+	"title": "CS550",
+	"reviewRating": 2,
+	"surveyRating": 3,
+	"description": "Programming Languages"
+}, {
+	"id": "570",
+	"instructorId": "570",
+	"departmentId": 3005,
+	"name": "Programming Foundations",
+	"title": "CS570",
+	"reviewRating": 5,
+	"surveyRating": 5,
+	"description": "Programming Foundations"
+}, {
+	"id": "570",
+	"instructorId": "570",
+	"departmentId": 3005,
+	"name": "Programming Foundations",
+	"title": "CS570",
+	"reviewRating": 5,
+	"surveyRating": 5,
+	"description": "Programming Foundations"
+}, {
+	"id": "571",
+	"instructorId": "571",
+	"departmentId": 3005,
+	"name": "Advanced Programming Techniques",
+	"title": "CS571",
+	"reviewRating": 2,
+	"surveyRating": 4,
+	"description": "Advanced Programming Techniques"
+}, {
+	"id": "583",
+	"instructorId": "583",
+	"departmentId": 3005,
+	"name": "Introduction to Computer Vision",
+	"title": "CS583",
+	"reviewRating": 1,
+	"surveyRating": 2,
+	"description": "Introduction to Computer Vision"
+}, {
+	"id": "613",
+	"instructorId": "613",
+	"departmentId": 3005,
+	"name": "Machine Learning",
+	"title": "CS613",
+	"reviewRating": 3,
+	"surveyRating": 1,
+	"description": "Machine Learning"
+}, {
+	"id": "613",
+	"instructorId": "613",
+	"departmentId": 3005,
+	"name": "Machine Learning",
+	"title": "CS613",
+	"reviewRating": 2,
+	"surveyRating": 2,
+	"description": "Machine Learning"
+}, {
+	"id": "618",
+	"instructorId": "618",
+	"departmentId": 3005,
+	"name": "Algorithmic Game Theory",
+	"title": "CS618",
+	"reviewRating": 4,
+	"surveyRating": 4,
+	"description": "Algorithmic Game Theory"
+}, {
+	"id": "647",
+	"instructorId": "647",
+	"departmentId": 3005,
+	"name": "Distributed Systems Software",
+	"title": "CS647",
+	"reviewRating": 3,
+	"surveyRating": 5,
+	"description": "Distributed Systems Software"
+}, {
+	"id": "171",
+	"instructorId": "171",
+	"departmentId": 3005,
+	"name": "Computer Programming I",
+	"title": "CS171",
+	"reviewRating": 2,
+	"surveyRating": 4,
+	"description": "Computer Programming I"
+}, {
+	"id": "172",
+	"instructorId": "172",
+	"departmentId": 3005,
+	"name": "Computer Programming II",
+	"title": "CS172",
+	"reviewRating": 5,
+	"surveyRating": 5,
+	"description": "Computer Programming II"
+}, {
+	"id": "172",
+	"instructorId": "172",
+	"departmentId": 3005,
+	"name": "Computer Programming II",
+	"title": "CS172",
+	"reviewRating": 4,
+	"surveyRating": 4,
+	"description": "Computer Programming II"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 1,
+	"surveyRating": 5,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 4,
+	"surveyRating": 4,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 3,
+	"surveyRating": 3,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 5,
+	"surveyRating": 5,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 4,
+	"surveyRating": 2,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "270",
+	"instructorId": "270",
+	"departmentId": 3005,
+	"name": "Mathematical Foundations of Computer Science",
+	"title": "CS270",
+	"reviewRating": 2,
+	"surveyRating": 4,
+	"description": "Mathematical Foundations of Computer Science"
+}, {
+	"id": "270",
+	"instructorId": "270",
+	"departmentId": 3005,
+	"name": "Mathematical Foundations of Computer Science",
+	"title": "CS270",
+	"reviewRating": 3,
+	"surveyRating": 4,
+	"description": "Mathematical Foundations of Computer Science"
+}, {
+	"id": "277",
+	"instructorId": "277",
+	"departmentId": 3005,
+	"name": "Algorithms and Analysis",
+	"title": "CS277",
+	"reviewRating": 4,
+	"surveyRating": 3,
+	"description": "Algorithms and Analysis"
+}, {
+	"id": "281",
+	"instructorId": "281",
+	"departmentId": 3005,
+	"name": "Systems Architecture",
+	"title": "CS281",
+	"reviewRating": 2,
+	"surveyRating": 5,
+	"description": "Systems Architecture"
+}, {
+	"id": "281",
+	"instructorId": "281",
+	"departmentId": 3005,
+	"name": "Systems Architecture",
+	"title": "CS281",
+	"reviewRating": 3,
+	"surveyRating": 3,
+	"description": "Systems Architecture"
+}, {
+	"id": "281",
+	"instructorId": "281",
+	"departmentId": 3005,
+	"name": "Systems Architecture",
+	"title": "CS281",
+	"reviewRating": 1,
+	"surveyRating": 1,
+	"description": "Systems Architecture"
+}, {
+	"id": "361",
+	"instructorId": "361",
+	"departmentId": 3005,
+	"name": "Concurrent Programming",
+	"title": "CS361",
+	"reviewRating": 2,
+	"surveyRating": 5,
+	"description": "Concurrent Programming"
+}, {
+	"id": "380",
+	"instructorId": "380",
+	"departmentId": 3005,
+	"name": "Artificial Intelligence",
+	"title": "CS380",
+	"reviewRating": 2,
+	"surveyRating": 3,
+	"description": "Artificial Intelligence"
+}, {
+	"id": "440",
+	"instructorId": "440",
+	"departmentId": 3005,
+	"name": "Theory of Computation",
+	"title": "CS440",
+	"reviewRating": 1,
+	"surveyRating": 2,
+	"description": "Theory of Computation"
+}, {
+	"id": "465",
+	"instructorId": "465",
+	"departmentId": 3005,
+	"name": "Privacy and Trust",
+	"title": "CS465",
+	"reviewRating": 5,
+	"surveyRating": 4,
+	"description": "Privacy and Trust"
+}, {
+	"id": "481",
+	"instructorId": "481",
+	"departmentId": 3005,
+	"name": "Advanced Artificial Intelligence",
+	"title": "CS481",
+	"reviewRating": 3,
+	"surveyRating": 2,
+	"description": "Advanced Artificial Intelligence"
+}, {
+	"id": "501",
+	"instructorId": "501",
+	"departmentId": 3005,
+	"name": "Introduction to Programming",
+	"title": "CS501",
+	"reviewRating": 3,
+	"surveyRating": 3,
+	"description": "Introduction to Programming"
+}, {
+	"id": "503",
+	"instructorId": "503",
+	"departmentId": 3005,
+	"name": "Systems Basics",
+	"title": "CS503",
+	"reviewRating": 4,
+	"surveyRating": 3,
+	"description": "Systems Basics"
+}, {
+	"id": "510",
+	"instructorId": "510",
+	"departmentId": 3005,
+	"name": "Introduction to Artificial Intelligence",
+	"title": "CS510",
+	"reviewRating": 1,
+	"surveyRating": 1,
+	"description": "Introduction to Artificial Intelligence"
+}, {
+	"id": "544",
+	"instructorId": "544",
+	"departmentId": 3005,
+	"name": "Computer Networks",
+	"title": "CS544",
+	"reviewRating": 2,
+	"surveyRating": 5,
+	"description": "Computer Networks"
+}, {
+	"id": "550",
+	"instructorId": "550",
+	"departmentId": 3005,
+	"name": "Programming Languages",
+	"title": "CS550",
+	"reviewRating": 4,
+	"surveyRating": 5,
+	"description": "Programming Languages"
+}, {
+	"id": "570",
+	"instructorId": "570",
+	"departmentId": 3005,
+	"name": "Programming Foundations",
+	"title": "CS570",
+	"reviewRating": 2,
+	"surveyRating": 1,
+	"description": "Programming Foundations"
+}, {
+	"id": "570",
+	"instructorId": "570",
+	"departmentId": 3005,
+	"name": "Programming Foundations",
+	"title": "CS570",
+	"reviewRating": 1,
+	"surveyRating": 3,
+	"description": "Programming Foundations"
+}, {
+	"id": "571",
+	"instructorId": "571",
+	"departmentId": 3005,
+	"name": "Advanced Programming Techniques",
+	"title": "CS571",
+	"reviewRating": 3,
+	"surveyRating": 5,
+	"description": "Advanced Programming Techniques"
+}, {
+	"id": "583",
+	"instructorId": "583",
+	"departmentId": 3005,
+	"name": "Introduction to Computer Vision",
+	"title": "CS583",
+	"reviewRating": 3,
+	"surveyRating": 2,
+	"description": "Introduction to Computer Vision"
+}, {
+	"id": "613",
+	"instructorId": "613",
+	"departmentId": 3005,
+	"name": "Machine Learning",
+	"title": "CS613",
+	"reviewRating": 1,
+	"surveyRating": 3,
+	"description": "Machine Learning"
+}, {
+	"id": "618",
+	"instructorId": "618",
+	"departmentId": 3005,
+	"name": "Algorithmic Game Theory",
+	"title": "CS618",
+	"reviewRating": 1,
+	"surveyRating": 3,
+	"description": "Algorithmic Game Theory"
+}, {
+	"id": "647",
+	"instructorId": "647",
+	"departmentId": 3005,
+	"name": "Distributed Systems Software",
+	"title": "CS647",
+	"reviewRating": 1,
+	"surveyRating": 2,
+	"description": "Distributed Systems Software"
+}, {
+	"id": "172",
+	"instructorId": "172",
+	"departmentId": 3005,
+	"name": "Computer Programming II",
+	"title": "CS172",
+	"reviewRating": 1,
+	"surveyRating": 5,
+	"description": "Computer Programming II"
+}, {
+	"id": "172",
+	"instructorId": "172",
+	"departmentId": 3005,
+	"name": "Computer Programming II",
+	"title": "CS172",
+	"reviewRating": 5,
+	"surveyRating": 5,
+	"description": "Computer Programming II"
+}, {
+	"id": "260",
+	"instructorId": "260",
+	"departmentId": 3005,
+	"name": "Data Structures",
+	"title": "CS260",
+	"reviewRating": 3,
+	"surveyRating": 3,
+	"description": "Data Structures"
+}, {
+	"id": "260",
+	"instructorId": "260",
+	"departmentId": 3005,
+	"name": "Data Structures",
+	"title": "CS260",
+	"reviewRating": 1,
+	"surveyRating": 4,
+	"description": "Data Structures"
+}, {
+	"id": "260",
+	"instructorId": "260",
+	"departmentId": 3005,
+	"name": "Data Structures",
+	"title": "CS260",
+	"reviewRating": 3,
+	"surveyRating": 4,
+	"description": "Data Structures"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 5,
+	"surveyRating": 5,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 5,
+	"surveyRating": 3,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "283",
+	"instructorId": "283",
+	"departmentId": 3005,
+	"name": "Systems Programming",
+	"title": "CS283",
+	"reviewRating": 4,
+	"surveyRating": 5,
+	"description": "Systems Programming"
+}, {
+	"id": "338",
+	"instructorId": "338",
+	"departmentId": 3005,
+	"name": "Graphical User Interfaces",
+	"title": "CS338",
+	"reviewRating": 4,
+	"surveyRating": 5,
+	"description": "Graphical User Interfaces"
+}, {
+	"id": "345",
+	"instructorId": "345",
+	"departmentId": 3005,
+	"name": "Computer Game Design and Development",
+	"title": "CS345",
+	"reviewRating": 4,
+	"surveyRating": 4,
+	"description": "Computer Game Design and Development"
+}, {
+	"id": "360",
+	"instructorId": "360",
+	"departmentId": 3005,
+	"name": "Programming Language Concepts",
+	"title": "CS360",
+	"reviewRating": 4,
+	"surveyRating": 5,
+	"description": "Programming Language Concepts"
+}, {
+	"id": "375",
+	"instructorId": "375",
+	"departmentId": 3005,
+	"name": "Web and Mobile App Development",
+	"title": "CS375",
+	"reviewRating": 2,
+	"surveyRating": 3,
+	"description": "Web and Mobile App Development"
+}, {
+	"id": "432",
+	"instructorId": "432",
+	"departmentId": 3005,
+	"name": "Interactive Computer Graphics",
+	"title": "CS432",
+	"reviewRating": 3,
+	"surveyRating": 1,
+	"description": "Interactive Computer Graphics"
+}, {
+	"id": "461",
+	"instructorId": "461",
+	"departmentId": 3005,
+	"name": "Database Systems",
+	"title": "CS461",
+	"reviewRating": 4,
+	"surveyRating": 5,
+	"description": "Database Systems"
+}, {
+	"id": "502",
+	"instructorId": "502",
+	"departmentId": 3005,
+	"name": "Data Structures and Algorithms",
+	"title": "CS502",
+	"reviewRating": 5,
+	"surveyRating": 3,
+	"description": "Data Structures and Algorithms"
+}, {
+	"id": "504",
+	"instructorId": "504",
+	"departmentId": 3005,
+	"name": "Introduction to Software Design",
+	"title": "CS504",
+	"reviewRating": 1,
+	"surveyRating": 5,
+	"description": "Introduction to Software Design"
+}, {
+	"id": "521",
+	"instructorId": "521",
+	"departmentId": 3005,
+	"name": "Data Structures and Algorithms I",
+	"title": "CS521",
+	"reviewRating": 1,
+	"surveyRating": 4,
+	"description": "Data Structures and Algorithms I"
+}, {
+	"id": "615",
+	"instructorId": "615",
+	"departmentId": 3005,
+	"name": "Deep Learning",
+	"title": "CS615",
+	"reviewRating": 3,
+	"surveyRating": 2,
+	"description": "Deep Learning"
+}, {
+	"id": "172",
+	"instructorId": "172",
+	"departmentId": 3005,
+	"name": "Computer Programming II",
+	"title": "CS172",
+	"reviewRating": 3,
+	"surveyRating": 4,
+	"description": "Computer Programming II"
+}, {
+	"id": "260",
+	"instructorId": "260",
+	"departmentId": 3005,
+	"name": "Data Structures",
+	"title": "CS260",
+	"reviewRating": 4,
+	"surveyRating": 4,
+	"description": "Data Structures"
+}, {
+	"id": "260",
+	"instructorId": "260",
+	"departmentId": 3005,
+	"name": "Data Structures",
+	"title": "CS260",
+	"reviewRating": 4,
+	"surveyRating": 5,
+	"description": "Data Structures"
+}, {
+	"id": "260",
+	"instructorId": "260",
+	"departmentId": 3005,
+	"name": "Data Structures",
+	"title": "CS260",
+	"reviewRating": 2,
+	"surveyRating": 5,
+	"description": "Data Structures"
+}, {
+	"id": "260",
+	"instructorId": "260",
+	"departmentId": 3005,
+	"name": "Data Structures",
+	"title": "CS260",
+	"reviewRating": 3,
+	"surveyRating": 2,
+	"description": "Data Structures"
+}, {
+	"id": "265",
+	"instructorId": "265",
+	"departmentId": 3005,
+	"name": "Advanced Programming Tools and Techniques",
+	"title": "CS265",
+	"reviewRating": 4,
+	"surveyRating": 2,
+	"description": "Advanced Programming Tools and Techniques"
+}, {
+	"id": "270",
+	"instructorId": "270",
+	"departmentId": 3005,
+	"name": "Mathematical Foundations of Computer Science",
+	"title": "CS270",
+	"reviewRating": 5,
+	"surveyRating": 1,
+	"description": "Mathematical Foundations of Computer Science"
+}, {
+	"id": "283",
+	"instructorId": "283",
+	"departmentId": 3005,
+	"name": "Systems Programming",
+	"title": "CS283",
+	"reviewRating": 2,
+	"surveyRating": 2,
+	"description": "Systems Programming"
+}, {
+	"id": "345",
+	"instructorId": "345",
+	"departmentId": 3005,
+	"name": "Computer Game Design and Development",
+	"title": "CS345",
+	"reviewRating": 3,
+	"surveyRating": 4,
+	"description": "Computer Game Design and Development"
+}, {
+	"id": "360",
+	"instructorId": "360",
+	"departmentId": 3005,
+	"name": "Programming Language Concepts",
+	"title": "CS360",
+	"reviewRating": 5,
+	"surveyRating": 1,
+	"description": "Programming Language Concepts"
+}, {
+	"id": "370",
+	"instructorId": "370",
+	"departmentId": 3005,
+	"name": "Operating Systems",
+	"title": "CS370",
+	"reviewRating": 2,
+	"surveyRating": 3,
+	"description": "Operating Systems"
+}, {
+	"id": "387",
+	"instructorId": "387",
+	"departmentId": 3005,
+	"name": "Game AI Development",
+	"title": "CS387",
+	"reviewRating": 4,
+	"surveyRating": 4,
+	"description": "Game AI Development"
+}, {
+	"id": "435",
+	"instructorId": "435",
+	"departmentId": 3005,
+	"name": "Computational Photography",
+	"title": "CS435",
+	"reviewRating": 4,
+	"surveyRating": 5,
+	"description": "Computational Photography"
+}, {
+	"id": "502",
+	"instructorId": "502",
+	"departmentId": 3005,
+	"name": "Data Structures and Algorithms",
+	"title": "CS502",
+	"reviewRating": 2,
+	"surveyRating": 1,
+	"description": "Data Structures and Algorithms"
+}, {
+	"id": "504",
+	"instructorId": "504",
+	"departmentId": 3005,
+	"name": "Introduction to Software Design",
+	"title": "CS504",
+	"reviewRating": 4,
+	"surveyRating": 3,
+	"description": "Introduction to Software Design"
+}, {
+	"id": "521",
+	"instructorId": "521",
+	"departmentId": 3005,
+	"name": "Data Structures and Algorithms I",
+	"title": "CS521",
+	"reviewRating": 2,
+	"surveyRating": 3,
+	"description": "Data Structures and Algorithms I"
+}, {
+	"id": "615",
+	"instructorId": "615",
+	"departmentId": 3005,
+	"name": "Deep Learning",
+	"title": "CS615",
+	"reviewRating": 2,
+	"surveyRating": 3,
+	"description": "Deep Learning"
+}]

@@ -1,0 +1,78 @@
+html, body {
+	    margin: 0;
+	    height: 100%;
+	    background-color: #efefef !important;
+}
+.container-fluid {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+a {
+	border: none !important;
+}
+
+.navButtons > a:hover {
+	background-color: #ffc601 !important;
+	filter: brightness(70%);
+	color: black !important;
+}
+
+.dcr-title {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	font-size: 50px;
+	cursor: default;
+	font-family: Lato, Helvetica, sans-serif;
+}
+.dcr-title-img {
+	vertical-align: top;
+	height: 100px;
+	width: 100px;
+}
+
+.homeButtonGrid > button:hover{
+	background-color: #ffc601 !important;
+	filter: brightness(70%);
+}
+
+.homePaper {
+	padding: 100px 0px;
+	height: 100vh;
+	/* background: rgb(239, 239, 239); */
+}
+
+.TypeAheadDropDown {
+	border: none !important;
+	box-shadow: none !important;
+	padding-bottom: 50px;
+}
+
+.reviewItem {
+	width: 100%;
+}
+
+.faqAccordion {
+	width: 100%;
+}
+.faqBody {
+	height: 100%;
+}
+
+.faqBodyPaper {
+	height: 80%;
+}
+
+.subtext {
+	text-align: center;
+	font-family: Lato, Helvetica, sans-serif;
+}
+
+/* .landing-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+} */

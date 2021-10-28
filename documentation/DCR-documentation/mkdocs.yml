@@ -1,0 +1,4 @@
+site_name: Dragon Course Review Documentation
+nav:
+  - Home: index.md
+  - Login/Registration: logreg.md

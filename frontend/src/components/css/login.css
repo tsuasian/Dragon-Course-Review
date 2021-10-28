@@ -1,0 +1,50 @@
+html, body {
+  height: 100%;
+}
+.main {
+  height: 700px;
+  width: 100%;
+  /* border: 2px solid blue; */
+}
+
+.loginPageBody{
+  display: flex;
+  /* border: 2px solid red; */
+  height: 100%;
+  padding-top: 5%;
+  justify-content: center;
+
+}
+
+.loginPaper{
+  /* border: 2px solid blue; */
+  display: flex;
+  background-color: red;
+  flex-direction: column;
+  height: 100%;
+  width: 75%;
+  align-items: center;
+  justify-content: center;
+}
+
+.lastinputLog {
+  margin-bottom: 200px
+}
+
+.usernameText {
+  display: inline-block;
+}
+
+.iconsyay {
+  margin-right: 5px;
+  margin-bottom: -28px;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+}
+
+img {
+  height: 50px;
+}

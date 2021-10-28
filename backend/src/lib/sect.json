@@ -1,0 +1,2053 @@
+[
+  {
+    "quarter": "202035",
+    "inst_name": "Jeffrey L Popyack",
+    "course_name": "Computer Science Principles",
+    "departmentId": "3005",
+    "number": "862"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Introduction to Computer Science",
+    "departmentId": "3005",
+    "number": "860"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Introduction to Computer Science",
+    "departmentId": "3005",
+    "number": "865"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Introduction to Computer Science",
+    "departmentId": "3005",
+    "number": "872"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Introduction to Computer Science",
+    "departmentId": "3005",
+    "number": "B"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "060"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "063"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "065"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "A"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick",
+    "course_name": "Computer Programming II",
+    "departmentId": "3005",
+    "number": "060"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Kurt Schmidt",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dimitra Vista",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "005"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Kurt Schmidt",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "03B"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dimitra Vista",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "804"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady",
+    "course_name": "Mathematical Foundations of Computer Science",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Bruce W Char",
+    "course_name": "Mathematical Foundations of Computer Science",
+    "departmentId": "3005",
+    "number": "04A"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Galen K Long",
+    "course_name": "Mathematical Foundations of Computer Science",
+    "departmentId": "3005",
+    "number": "805"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Galen K Long",
+    "course_name": "Algorithms and Analysis",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Systems Architecture",
+    "departmentId": "3005",
+    "number": "060"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Systems Architecture",
+    "departmentId": "3005",
+    "number": "062"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Systems Architecture",
+    "departmentId": "3005",
+    "number": "A"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Frank J Lee",
+    "course_name": "Serious Game Development",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick",
+    "course_name": "Web and Mobile App Development",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dario D Salvucci",
+    "course_name": "Artificial Intelligence",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "David E Breen",
+    "course_name": "Computer Graphics",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Michael T Kain",
+    "course_name": "Computer Networks: Theory, Applications and Programming",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Sam M Bever",
+    "course_name": "Introduction to Programming",
+    "departmentId": "3005",
+    "number": "801"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Systems Basics",
+    "departmentId": "3005",
+    "number": "801"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Ehsan Baradaran Khosroshahi",
+    "course_name": "Introduction to Artificial Intelligence",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady",
+    "course_name": "Computer Science Foundations",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Manolis Pountourakis",
+    "course_name": "Data Structures and Algorithms I",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "David E Breen",
+    "course_name": "Computer Graphics",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "High Performance Computing",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Jeremy R Johnson",
+    "course_name": "Applied Symbolic Computation",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Edwin G Dauber",
+    "course_name": "Programming Foundations",
+    "departmentId": "3005",
+    "number": "810"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Edwin G Dauber",
+    "course_name": "Programming Foundations",
+    "departmentId": "3005",
+    "number": "910"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Advanced Programming Techniques",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Ehsan Baradaran Khosroshahi",
+    "course_name": "Game Artificial Intelligence",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Edward Kim",
+    "course_name": "Machine Learning",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Spiros Mancoridis",
+    "course_name": "Security Code Analysis",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Edward Kim",
+    "course_name": "Generative Adversarial Nets",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Spiros Mancoridis",
+    "course_name": "Loss Landscape of Neural Nets",
+    "departmentId": "3005",
+    "number": "003"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Edward Kim",
+    "course_name": "Reinforcement Learning",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Spiros Mancoridis",
+    "course_name": "ML for Malware Analysis",
+    "departmentId": "3005",
+    "number": "003"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Chris MacLellan",
+    "course_name": "Personal Cognitive Systems",
+    "departmentId": "3005",
+    "number": "005"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Colin S Gordon",
+    "course_name": "Research in Computer Science",
+    "departmentId": "3005",
+    "number": "003"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Geoffrey B Mainland",
+    "course_name": "Research in Computer Science",
+    "departmentId": "3005",
+    "number": "006"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Santiago Ontanon",
+    "course_name": "Research in Computer Science",
+    "departmentId": "3005",
+    "number": "008"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Ali Shokoufandeh",
+    "course_name": "Research in Computer Science",
+    "departmentId": "3005",
+    "number": "010"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Jeffrey L Popyack",
+    "course_name": "Computer Science Principles",
+    "departmentId": "3005",
+    "number": "A"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Introduction to Computer Science",
+    "departmentId": "3005",
+    "number": "862"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Introduction to Computer Science",
+    "departmentId": "3005",
+    "number": "866"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Introduction to Computer Science",
+    "departmentId": "3005",
+    "number": "A"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Introduction to Computer Science",
+    "departmentId": "3005",
+    "number": "C"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "062"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "064"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "069"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "B"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick",
+    "course_name": "Computer Programming II",
+    "departmentId": "3005",
+    "number": "A"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Kurt Schmidt",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dimitra Vista",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "007"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Kurt Schmidt",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "08B"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dimitra Vista",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "806"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Bruce W Char",
+    "course_name": "Mathematical Foundations of Computer Science",
+    "departmentId": "3005",
+    "number": "007"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady",
+    "course_name": "Mathematical Foundations of Computer Science",
+    "departmentId": "3005",
+    "number": "801"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Galen K Long",
+    "course_name": "Mathematical Foundations of Computer Science",
+    "departmentId": "3005",
+    "number": "806"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Galen K Long",
+    "course_name": "Algorithms and Analysis",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Systems Architecture",
+    "departmentId": "3005",
+    "number": "061"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Systems Architecture",
+    "departmentId": "3005",
+    "number": "063"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Systems Architecture",
+    "departmentId": "3005",
+    "number": "B"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Bruce W Char",
+    "course_name": "Concurrent Programming",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Spiros Mancoridis",
+    "course_name": "Software Security",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Jeffrey L Popyack",
+    "course_name": "Artificial Intelligence",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Vasilis Gkatzelis",
+    "course_name": "Data Structures and Algorithms I",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Vasilis Gkatzelis",
+    "course_name": "Algorithms, Games and Learning",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Sam M Bever",
+    "course_name": "Introduction to Programming",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Systems Basics",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Ehsan Baradaran Khosroshahi",
+    "course_name": "Introduction to Artificial Intelligence",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Manolis Pountourakis",
+    "course_name": "Data Structures and Algorithms I",
+    "departmentId": "3005",
+    "number": "801"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "David E Breen",
+    "course_name": "Computer Graphics",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "High Performance Computing",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Jeremy R Johnson",
+    "course_name": "Applied Symbolic Computation",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Sam M Bever",
+    "course_name": "Programming Foundations",
+    "departmentId": "3005",
+    "number": "801"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Sam M Bever",
+    "course_name": "Programming Foundations",
+    "departmentId": "3005",
+    "number": "901"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Advanced Programming Techniques",
+    "departmentId": "3005",
+    "number": "801"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Baris Taskin",
+    "course_name": "Multi-Die Networks-On-Chip",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Ehsan Baradaran Khosroshahi",
+    "course_name": "Game Artificial Intelligence",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Edward Kim",
+    "course_name": "Machine Learning",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Spiros Mancoridis",
+    "course_name": "Penetration Testing",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Spiros Mancoridis",
+    "course_name": "Neuromodulated Metalearning",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Vasilis Gkatzelis",
+    "course_name": "Algorithms, Games and Learning",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Spiros Mancoridis",
+    "course_name": "IoT Security",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Jeremy R Johnson",
+    "course_name": "Equational Reasoning Tool",
+    "departmentId": "3005",
+    "number": "004"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "David E Breen",
+    "course_name": "Research in Computer Science",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Vasilis Gkatzelis",
+    "course_name": "Research in Computer Science",
+    "departmentId": "3005",
+    "number": "004"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Spiros Mancoridis",
+    "course_name": "Research in Computer Science",
+    "departmentId": "3005",
+    "number": "007"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dario D Salvucci",
+    "course_name": "Research in Computer Science",
+    "departmentId": "3005",
+    "number": "009"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick",
+    "course_name": "Computer Science Principles",
+    "departmentId": "3005",
+    "number": "060"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Introduction to Computer Science",
+    "departmentId": "3005",
+    "number": "062"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "060"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "062"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "064"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "066"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "070"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "080"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "A"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "C"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Adelaida A Medlock",
+    "course_name": "Computer Programming II",
+    "departmentId": "3005",
+    "number": "062"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Adelaida A Medlock",
+    "course_name": "Computer Programming II",
+    "departmentId": "3005",
+    "number": "064"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Galen K Long",
+    "course_name": "Data Structures",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Galen K Long",
+    "course_name": "Data Structures",
+    "departmentId": "3005",
+    "number": "003"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Kurt Schmidt",
+    "course_name": "Data Structures",
+    "departmentId": "3005",
+    "number": "005"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Krzysztof Nowak",
+    "course_name": "Data Structures",
+    "departmentId": "3005",
+    "number": "007"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Galen K Long",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dimitra Vista",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "003"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Systems Programming",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Systems Programming",
+    "departmentId": "3005",
+    "number": "003"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Ehsan Baradaran Khosroshahi",
+    "course_name": "Graphical User Interfaces",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Frank J Lee",
+    "course_name": "Experimental Game Development",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Geoffrey B Mainland",
+    "course_name": "Programming Language Concepts",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Operating Systems",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Matthew J Burlick",
+    "course_name": "Machine Learning",
+    "departmentId": "3005",
+    "number": "003"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady",
+    "course_name": "Applications of SAT Solvers",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Matthew J Burlick",
+    "course_name": "Computational Photography",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Michael T Kain",
+    "course_name": "Computer Networks: Theory, Applications and Programming",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Colin S Gordon",
+    "course_name": "Hypervisor Internals",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dimitra Vista",
+    "course_name": "Fundamentals of Databases",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady",
+    "course_name": "Data Structures and Algorithms",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Edwin G Dauber",
+    "course_name": "Introduction to Software Design",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady",
+    "course_name": "Computer Science Foundations",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Krzysztof Nowak",
+    "course_name": "Theory of Computation",
+    "departmentId": "3005",
+    "number": "901"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dario D Salvucci",
+    "course_name": "Developing User Interfaces",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Operating Systems",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Sam M Bever",
+    "course_name": "Programming Foundations",
+    "departmentId": "3005",
+    "number": "902"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Edwin G Dauber",
+    "course_name": "Privacy",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Matthew J Burlick",
+    "course_name": "Deep Learning",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Matthew J Burlick",
+    "course_name": "Deep Learning",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Jeremy R Johnson",
+    "course_name": "Program Generation and Optimization",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Spiros Mancoridis",
+    "course_name": "Neuromodulated Metalearning",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Vasilis Gkatzelis",
+    "course_name": "Algorithms, Games and Learning",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Edward Kim",
+    "course_name": "Neural Computation",
+    "departmentId": "3005",
+    "number": "003"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "David E Breen",
+    "course_name": "Dissertation Research Comp Sci",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Vasilis Gkatzelis",
+    "course_name": "Dissertation Research Comp Sci",
+    "departmentId": "3005",
+    "number": "004"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Geoffrey B Mainland",
+    "course_name": "Dissertation Research Comp Sci",
+    "departmentId": "3005",
+    "number": "006"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dario D Salvucci",
+    "course_name": "Dissertation Research Comp Sci",
+    "departmentId": "3005",
+    "number": "009"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick",
+    "course_name": "Computer Science Principles",
+    "departmentId": "3005",
+    "number": "A"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Introduction to Computer Science",
+    "departmentId": "3005",
+    "number": "A"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "061"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "063"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "065"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "067"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "071"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady, Adelaida A Medlock",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "083"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "B"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Adelaida A Medlock",
+    "course_name": "Computer Programming II",
+    "departmentId": "3005",
+    "number": "061"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Adelaida A Medlock",
+    "course_name": "Computer Programming II",
+    "departmentId": "3005",
+    "number": "063"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Adelaida A Medlock",
+    "course_name": "Computer Programming II",
+    "departmentId": "3005",
+    "number": "A"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Galen K Long",
+    "course_name": "Data Structures",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Krzysztof Nowak",
+    "course_name": "Data Structures",
+    "departmentId": "3005",
+    "number": "004"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Kurt Schmidt",
+    "course_name": "Data Structures",
+    "departmentId": "3005",
+    "number": "006"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Kurt Schmidt",
+    "course_name": "Data Structures",
+    "departmentId": "3005",
+    "number": "008"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Kurt Schmidt",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Steve Earth",
+    "course_name": "Mathematical Foundations of Computer Science",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Systems Programming",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Bruce W Char",
+    "course_name": "Algorithmic Number Theory and Cryptography",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Ehsan Baradaran Khosroshahi",
+    "course_name": "Graphical User Interfaces",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Kenneth Chen",
+    "course_name": "Computer Game Design and Development",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Geoffrey B Mainland",
+    "course_name": "Programming Language Concepts",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick",
+    "course_name": "Web and Mobile App Development",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Ehsan Baradaran Khosroshahi",
+    "course_name": "Game AI Development",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "David E Breen",
+    "course_name": "Interactive Computer Graphics",
+    "departmentId": "3005",
+    "number": "003"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Manolis Pountourakis",
+    "course_name": "Data Structures and Algorithms II",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Vasilis Gkatzelis",
+    "course_name": "Algorithms, Games and Learning",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dimitra Vista",
+    "course_name": "Fundamentals of Databases",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady",
+    "course_name": "Data Structures and Algorithms",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Edwin G Dauber",
+    "course_name": "Introduction to Software Design",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady",
+    "course_name": "Computer Science Foundations",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Krzysztof Nowak",
+    "course_name": "Theory of Computation",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dario D Salvucci",
+    "course_name": "Developing User Interfaces",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Operating Systems",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Sam M Bever",
+    "course_name": "Programming Foundations",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Edwin G Dauber",
+    "course_name": "Privacy",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "David E Breen",
+    "course_name": "Real-Time Graphics",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Matthew J Burlick",
+    "course_name": "Deep Learning",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Jeremy R Johnson",
+    "course_name": "Program Generation and Optimization",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Edward Kim",
+    "course_name": "Sparse Generative Networks",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Baris Taskin",
+    "course_name": "Multi-Die Networks-on-Chip",
+    "departmentId": "3005",
+    "number": "003"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Jeremy R Johnson",
+    "course_name": "Educational Reasoning Tool",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Edward Kim",
+    "course_name": "Master's Thesis",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Colin S Gordon",
+    "course_name": "Dissertation Research Comp Sci",
+    "departmentId": "3005",
+    "number": "003"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Jeremy R Johnson",
+    "course_name": "Dissertation Research Comp Sci",
+    "departmentId": "3005",
+    "number": "005"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Spiros Mancoridis",
+    "course_name": "Dissertation Research Comp Sci",
+    "departmentId": "3005",
+    "number": "007"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Ali Shokoufandeh",
+    "course_name": "Dissertation Research Comp Sci",
+    "departmentId": "3005",
+    "number": "010"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "060"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Matthew J Burlick, Adelaida A Medlock",
+    "course_name": "Computer Programming II",
+    "departmentId": "3005",
+    "number": "060"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Matthew J Burlick",
+    "course_name": "Computer Programming II",
+    "departmentId": "3005",
+    "number": "B"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Krzysztof Nowak",
+    "course_name": "Data Structures",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dimitra Vista",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Galen K Long",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "004"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Kurt Schmidt",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "006"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Kurt Schmidt",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "008"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady",
+    "course_name": "Mathematical Foundations of Computer Science",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Bruce W Char",
+    "course_name": "Mathematical Foundations of Computer Science",
+    "departmentId": "3005",
+    "number": "003"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Galen K Long",
+    "course_name": "Algorithms and Analysis",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Systems Architecture",
+    "departmentId": "3005",
+    "number": "061"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Systems Architecture",
+    "departmentId": "3005",
+    "number": "063"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Systems Architecture",
+    "departmentId": "3005",
+    "number": "A"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Kenneth Chen",
+    "course_name": "Computer Game Design and Development",
+    "departmentId": "3005",
+    "number": "003"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick",
+    "course_name": "Web and Mobile App Development",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Edward Kim",
+    "course_name": "Machine Learning",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dimitra Vista",
+    "course_name": "Database Systems",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Spiros Mancoridis",
+    "course_name": "Computer and Network Security",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Tammy R Pirmann",
+    "course_name": "Introduction to Programming",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Systems Basics",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Ehsan Baradaran Khosroshahi",
+    "course_name": "Introduction to Artificial Intelligence",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Michael T Kain",
+    "course_name": "Computer Networks",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Geoffrey B Mainland",
+    "course_name": "Programming Languages",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Tammy R Pirmann",
+    "course_name": "Programming Foundations",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Tammy R Pirmann",
+    "course_name": "Programming Foundations",
+    "departmentId": "3005",
+    "number": "901"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Advanced Programming Techniques",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Louis A Kratz",
+    "course_name": "Introduction to Computer Vision",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Matthew J Burlick",
+    "course_name": "Machine Learning",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Matthew J Burlick",
+    "course_name": "Machine Learning",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Vasilis Gkatzelis",
+    "course_name": "Algorithmic Game Theory",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Colin S Gordon",
+    "course_name": "Distributed Systems Software",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick",
+    "course_name": "Computer Programming I",
+    "departmentId": "3005",
+    "number": "A"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Matthew J Burlick",
+    "course_name": "Computer Programming II",
+    "departmentId": "3005",
+    "number": "A"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Adelaida A Medlock",
+    "course_name": "Computer Programming II",
+    "departmentId": "3005",
+    "number": "C"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Krzysztof Nowak",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Galen K Long",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "003"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Kurt Schmidt",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "005"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Kurt Schmidt",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "007"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Kurt Schmidt",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "800"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady",
+    "course_name": "Mathematical Foundations of Computer Science",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady",
+    "course_name": "Mathematical Foundations of Computer Science",
+    "departmentId": "3005",
+    "number": "004"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Galen K Long",
+    "course_name": "Algorithms and Analysis",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Systems Architecture",
+    "departmentId": "3005",
+    "number": "062"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Systems Architecture",
+    "departmentId": "3005",
+    "number": "064"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Systems Architecture",
+    "departmentId": "3005",
+    "number": "B"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Bruce W Char",
+    "course_name": "Concurrent Programming",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Jeffrey L Popyack",
+    "course_name": "Artificial Intelligence",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Krzysztof Nowak",
+    "course_name": "Theory of Computation",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Edwin G Dauber",
+    "course_name": "Privacy and Trust",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Jeffrey L Popyack",
+    "course_name": "Advanced Artificial Intelligence",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Tammy R Pirmann",
+    "course_name": "Introduction to Programming",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Systems Basics",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Ehsan Baradaran Khosroshahi",
+    "course_name": "Introduction to Artificial Intelligence",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Michael T Kain",
+    "course_name": "Computer Networks",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Geoffrey B Mainland",
+    "course_name": "Programming Languages",
+    "departmentId": "3005",
+    "number": "901"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Sam M Bever",
+    "course_name": "Programming Foundations",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Sam M Bever",
+    "course_name": "Programming Foundations",
+    "departmentId": "3005",
+    "number": "902"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Constantine Katsinis",
+    "course_name": "Advanced Programming Techniques",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Louis A Kratz",
+    "course_name": "Introduction to Computer Vision",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Matthew J Burlick",
+    "course_name": "Machine Learning",
+    "departmentId": "3005",
+    "number": "800"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Vasilis Gkatzelis",
+    "course_name": "Algorithmic Game Theory",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Colin S Gordon",
+    "course_name": "Distributed Systems Software",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "STAFF",
+    "course_name": "Computer Programming II",
+    "departmentId": "3005",
+    "number": "060"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick",
+    "course_name": "Computer Programming II",
+    "departmentId": "3005",
+    "number": "A"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "STAFF",
+    "course_name": "Data Structures",
+    "departmentId": "3005",
+    "number": "004"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "STAFF",
+    "course_name": "Data Structures",
+    "departmentId": "3005",
+    "number": "006"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Krzysztof Nowak",
+    "course_name": "Data Structures",
+    "departmentId": "3005",
+    "number": "008"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Filippos I Vokolos",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "003"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Systems Programming",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Ehsan Baradaran Khosroshahi",
+    "course_name": "Graphical User Interfaces",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "STAFF",
+    "course_name": "Computer Game Design and Development",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Krzysztof Nowak",
+    "course_name": "Programming Language Concepts",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick",
+    "course_name": "Web and Mobile App Development",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Matthew J Burlick",
+    "course_name": "Interactive Computer Graphics",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Dave H Augenblick",
+    "course_name": "Database Systems",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady",
+    "course_name": "Data Structures and Algorithms",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Boris Valerstein",
+    "course_name": "Introduction to Software Design",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "STAFF",
+    "course_name": "Data Structures and Algorithms I",
+    "departmentId": "3005",
+    "number": "901"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Matthew J Burlick",
+    "course_name": "Deep Learning",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "STAFF",
+    "course_name": "Data Analysis at Scale",
+    "departmentId": "3005",
+    "number": "900"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "STAFF",
+    "course_name": "Computer Programming II",
+    "departmentId": "3005",
+    "number": "062"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "STAFF",
+    "course_name": "Data Structures",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "STAFF",
+    "course_name": "Data Structures",
+    "departmentId": "3005",
+    "number": "005"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Krzysztof Nowak",
+    "course_name": "Data Structures",
+    "departmentId": "3005",
+    "number": "007"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Krzysztof Nowak",
+    "course_name": "Data Structures",
+    "departmentId": "3005",
+    "number": "009"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Filippos I Vokolos",
+    "course_name": "Advanced Programming Tools and Techniques",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "STAFF",
+    "course_name": "Mathematical Foundations of Computer Science",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Systems Programming",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "STAFF",
+    "course_name": "Computer Game Design and Development",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Krzysztof Nowak",
+    "course_name": "Programming Language Concepts",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Brian L Stuart",
+    "course_name": "Operating Systems",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Ehsan Baradaran Khosroshahi",
+    "course_name": "Game AI Development",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Matthew J Burlick",
+    "course_name": "Computational Photography",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Mark W Boady",
+    "course_name": "Data Structures and Algorithms",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Boris Valerstein",
+    "course_name": "Introduction to Software Design",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "STAFF",
+    "course_name": "Data Structures and Algorithms I",
+    "departmentId": "3005",
+    "number": "002"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "Matthew J Burlick",
+    "course_name": "Deep Learning",
+    "departmentId": "3005",
+    "number": "001"
+  },
+  {
+    "quarter": "202035",
+    "inst_name": "STAFF",
+    "course_name": "Data Analysis at Scale",
+    "departmentId": "3005",
+    "number": "001"
+  }
+]

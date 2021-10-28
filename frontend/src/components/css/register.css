@@ -1,0 +1,39 @@
+.main {
+  height: 100%;
+  width: 100%;
+}
+
+.loginPageBody{
+  display: flex;
+  padding-top: 5%;
+  justify-content: center;
+
+}
+
+.loginPaper{
+  display: flex;
+  background-color: red;
+  flex-direction: column;
+  height: 800px;
+  width: 700px;
+  align-items: center;
+  justify-content: center;
+}
+
+.lastinputLog {
+  margin-bottom: 200px
+}
+
+.usernameText {
+  display: inline-block;
+}
+
+.iconsyay {
+  margin-right: 5px;
+  margin-bottom: -28px;
+}
+
+.logRegImg {
+  height: 250px;
+  width: 250px;
+}
